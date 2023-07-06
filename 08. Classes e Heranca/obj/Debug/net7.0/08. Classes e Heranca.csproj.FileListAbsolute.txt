@@ -1,0 +1,15 @@
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\bin\Debug\net7.0\08. Classes e Heranca.exe
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\bin\Debug\net7.0\08. Classes e Heranca.deps.json
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\bin\Debug\net7.0\08. Classes e Heranca.runtimeconfig.json
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\bin\Debug\net7.0\08. Classes e Heranca.dll
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\bin\Debug\net7.0\08. Classes e Heranca.pdb
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.csproj.AssemblyReference.cache
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.AssemblyInfoInputs.cache
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.AssemblyInfo.cs
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.dll
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\refint\08. Classes e Heranca.dll
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.pdb
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\08. Classes e Heranca.genruntimeconfig.cache
+C:\Users\Gybsom\source\repos\08. Classes e Heranca\08. Classes e Heranca\obj\Debug\net7.0\ref\08. Classes e Heranca.dll
